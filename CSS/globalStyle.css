@@ -1,0 +1,32 @@
+body{
+	text-align: center;
+}
+
+h3{
+	text-align: left;
+}
+
+li{
+	text-align: left;
+}
+
+#objective{
+	text-align: left;
+}
+
+
+#interests{
+	text-align: left;
+}
+
+div{
+	border: 2px dashed #DDDDDD;
+}
+
+ul{
+	list-style-type: square;
+}
+
+footer{
+	font-size: 15px;
+}

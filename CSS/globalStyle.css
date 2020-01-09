@@ -1,9 +1,19 @@
 body{
 	text-align: center;
+	color: #444;
+}
+
+h1{
+	color: black;
 }
 
 h3{
 	text-align: left;
+	color: black;
+}
+
+h3:hover{
+	color: #555;
 }
 
 li{
@@ -12,11 +22,13 @@ li{
 
 #objective{
 	text-align: left;
+	padding: 5px 15px;
 }
 
 
 #interests{
 	text-align: left;
+	padding: 5px 15px;
 }
 
 div{
@@ -29,4 +41,18 @@ ul{
 
 footer{
 	font-size: 15px;
+}
+
+span{
+	font-weight: bold;
+	color: black;
+}
+
+span:hover{
+	color: #555;
+}
+
+img{
+	border: 1px solid #ccc;
+	padding: 10px 10px;
 }

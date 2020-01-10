@@ -1,4 +1,4 @@
-LAboratorio 1.
+Laboratorio 1.
 También se ejecutó el comando:
 git remote add origin https://github.com/chsoto97/Lab1.git
 
